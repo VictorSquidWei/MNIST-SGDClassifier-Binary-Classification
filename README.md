@@ -7,7 +7,7 @@ The MNIST dataset is a popular dataset consisting of 70,000 small images of hand
 ## Model Selection
 In this project, binary classification was performed to distinguish between zeros and non-zeros. The SGD classifier was used to perform the binary classification task.
 
-## Performance evaluation process
+## Performance Evaluation Process
 
 
 ***
