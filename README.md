@@ -1,5 +1,6 @@
 # MNIST-SGDClassifier-Binary-Classification
 This repository contains a machine learning project utilizing a Stochastic Gradient Descent (SGD) classifier for binary classification on the MNIST dataset. The goal is to identify and classify handwritten digits.
+**See the Jupyter Notebook file for the complete project**
 
 ## Dataset
 The MNIST dataset is a popular dataset consisting of 70,000 small images of handwritten digits. Each image is labeled with the digit it represents.
