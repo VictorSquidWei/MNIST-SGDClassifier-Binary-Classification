@@ -36,3 +36,9 @@ Used confusion matrix to visualize the performance of the algorithm by displayin
 Employed K-Fold Cross-Validation to ensure that our model's performance is not dependent on the way we split the data. This method provides a more robust measure of the model's predictive power.
 
 ***
+
+## Usage
+- Clone this repository
+- Open the `MNISTProject.ipynb` notebook
+- See appendix for required packages
+- Run the notebook cells
