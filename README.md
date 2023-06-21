@@ -3,7 +3,7 @@ This repository contains a machine learning project utilizing a Stochastic Gradi
 **See the Jupyter Notebook file for the complete project**
 
 ## Dataset
-The MNIST dataset is a popular dataset consisting of 70,000 small images of handwritten digits. Each image is labeled with the digit it represents.
+The MNIST dataset consists of 70,000 small images of handwritten digits. Each image is labeled with the digit it represents.
 
 ## Model Selection
 In this project, binary classification was performed to distinguish between zeros and non-zeros. The SGD classifier was used to perform the binary classification task.
