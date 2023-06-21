@@ -15,25 +15,17 @@ In this project, binary classification was performed to distinguish between zero
 
 **Classification Report**
 
-Generated a report detailing key metrics such as precision, recall, and f1-score for each class.
-
 ***
 
 **Precision-Recall Curve**
-
-Plotted a precision-recall curve to visualize the trade-off between precision and recall for different threshold settings.
 
 ***
 
 **Confusion Matrix**
 
-Used confusion matrix to visualize the performance of the algorithm by displaying the true positive, false positive, true negative, and false negative predictions.
-
 ***
 
 **K-Fold Cross-Validation**
-
-Employed K-Fold Cross-Validation to ensure that our model's performance is not dependent on the way we split the data. This method provides a more robust measure of the model's predictive power.
 
 ***
 
