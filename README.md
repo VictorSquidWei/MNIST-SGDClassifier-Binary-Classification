@@ -10,24 +10,18 @@ In this project, binary classification was performed to distinguish between zero
 
 ## Performance Evaluation Process
 
+- **Classification Report**
 
-***
 
-**Classification Report**
+- **Precision-Recall Curve**
 
-***
 
-**Precision-Recall Curve**
+- **Confusion Matrix**
 
-***
 
-**Confusion Matrix**
+- **K-Fold Cross-Validation**
 
-***
 
-**K-Fold Cross-Validation**
-
-***
 
 ## Usage
 - Clone this repository
