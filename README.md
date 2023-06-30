@@ -8,20 +8,12 @@ The MNIST dataset consists of 70,000 small images of handwritten digits. Each im
 ## Model Selection
 In this project, binary classification was performed to distinguish between zeros and non-zeros. The SGD classifier was used to perform the binary classification task.
 
-## Performance Evaluation Process
+## Performance Evaluation
 
 - **Classification Report**
-
-
 - **Precision-Recall Curve**
-
-
 - **Confusion Matrix**
-
-
 - **K-Fold Cross-Validation**
-
-
 
 ## Usage
 - Clone this repository
